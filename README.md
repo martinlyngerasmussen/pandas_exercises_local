@@ -1,0 +1,1 @@
+I use this repo to practice my Pandas skills. All credit goes to guipsamora/pandas_exercises for creating the exercises and getting the data.
